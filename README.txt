@@ -1,0 +1,1 @@
+kategori olarak alıcak servisden json yolu olarak dönülecek
